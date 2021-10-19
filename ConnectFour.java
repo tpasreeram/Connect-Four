@@ -12,7 +12,7 @@ public class ConnectFour {
             System.out.print("\n");
         }
     }
-
+//hello, i made an edit here:)
     public static void initializeBoard(char[][] array)
     {
     	// initializes the board.
