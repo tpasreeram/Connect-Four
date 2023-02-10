@@ -1,2 +1,2 @@
 # Lab-06
-readme
+A text-based Connect Four game in Java.
